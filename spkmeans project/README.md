@@ -1,2 +1,2 @@
 # SoftwareProj-FinalProject
-Final project of "software Project" course. implementation of SPK in C and Python. by Niv Peretz and Noa Erez
+Final project of "software Project" course. implementation of SPK in C and Python. by Noa Erez
